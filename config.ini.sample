@@ -1,0 +1,10 @@
+[CREDENTIALS]
+email = abc@hotmail.com
+password = P@ssw0rd
+url = https://mywebsite.com/TemperatureRecording/TemperatureMonitoring.aspx
+
+[REMINDER]
+first_am = 10:00
+first_pm = 14:00
+
+[OTHERS]

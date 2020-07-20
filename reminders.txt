@@ -1,1 +1,1 @@
-[]
+[["Please record AM temperature", 17, 13, 0], ["Please record PM temperature", 17, 14, 0]]
